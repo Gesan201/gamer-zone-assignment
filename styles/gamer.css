@@ -1,30 +1,21 @@
 /* imported from google font*/
 
-<style>
   @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;800&display=swap');
-</style>
 
 
 
-.{  
 
-    font-family: 'Work Sans';
 
+*{
+  font-family: 'Work Sans';
 }
+   
 
 header{
 
-  width: 1920px;
-  height: 130px;
-  flex-shrink: 0;
   
-  background: #FFF;
-  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
-
-
-
-  /*background-color:#FFF ;
-padding: 50px 250px;*/
+background-color:rgba(0, 0, 0, 0.05) ;
+padding: 50px 250px;
 
 }
 
